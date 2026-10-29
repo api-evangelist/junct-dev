@@ -64,5 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-junct-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://junct.dev/
+Junct is an agent‑readiness platform that converts any API specification into ready‑to‑use tools for leading AI agent frameworks such as Claude, GPT, LangChain and five others. By uploading OpenAPI, contract ABI, llms.txt, or Etherscan URLs, users instantly receive generated tools—over 1,200 tools hosted across 30 MCP servers. The service simplifies integration of web APIs into AI agents, offering a one‑line configuration to turn APIs into actionable agents.
+
+**Areas:** Company · AI · Agent · MCP · API Tools · Platform
+
+## junct-dev on APIs.io
+
+Everything profiled for junct-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/junct-dev/](https://apis.io/providers/junct-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- Junct API — Junct is the agent-readiness layer for web3. This API provides access to 28+ hosted MCP servers for DeFi protocols, exchanges, oracles, and data providers.…
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://junct.dev/)
+- [Documentation](https://junct.dev/docs)
+- [Getting started](https://junct.dev/docs)
+- [Pricing](https://junct.dev/pricing)
+- [Blog](https://junct.dev/blog)
+- [Terms of service](https://junct.dev/terms)
+- [Privacy policy](https://junct.dev/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/junct-dev/](https://apis.io/providers/junct-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for junct-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/junct-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
