@@ -74,9 +74,48 @@ Everything profiled for junct-dev is published on APIs.io rather than in this re
 
 ### APIs (1)
 
-- Junct API — Junct is the agent-readiness layer for web3. This API provides access to 28+ hosted MCP servers for DeFi protocols, exchanges, oracles, and data providers.…
+- [Junct API](https://apis.io/apis/junct-dev/junct-api/) — Junct is the agent-readiness layer for web3. This API provides access to 28+ hosted MCP servers for DeFi protocols, exchanges, oracles, and data providers.…
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Junct Dev Agentic Access](https://apis.io/agentic-access/junct-dev/junct-dev-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [junct-dev API Rules](https://apis.io/rules/junct-dev/junct-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Junct Dev Authentication](https://apis.io/security/junct-dev/junct-dev-authentication/)
+- [Junct Dev Domain Security](https://apis.io/security/junct-dev/junct-dev-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Junct Dev Scopes](https://apis.io/scopes/junct-dev/junct-dev-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Junct Dev Plans Pricing](https://apis.io/plans/junct-dev/junct-dev-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Junct Dev Rate Limits](https://apis.io/rate-limits/junct-dev/junct-dev-rate-limits/)
 
 ## Where to find this API
 
@@ -92,7 +131,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/junct-dev/](https://apis.io/providers/junct-dev/).
+**Kin Score 31.1** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 31.6 |
+
+**Agent readiness 18.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/junct-dev/](https://apis.io/providers/junct-dev/).
 
 ## How this profile is made
 
